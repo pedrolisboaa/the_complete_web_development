@@ -1,0 +1,52 @@
+.caixa {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+}
+
+.caixa_grande{
+    background-color: bisque;
+    position: absolute;
+    width: 100%;
+    height: 300px;
+}
+
+.caixa__vermelha {
+    background-color: red;
+    left: 200px;
+}
+
+.caixa__azul {
+    background-color: blue;
+    right: 100px;
+}
+
+.caixa__amarela {
+    background-color: yellow;
+    right: 100px;
+}
+
+.caixa__verde{
+    background-color:green;
+    display: block;  
+    position: absolute;
+    
+}
+
+.caixa__preta{
+    background-color:black;
+    display: block;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    
+}
+
+.caixa__laranja{
+    background-color:orange;
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}

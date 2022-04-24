@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.container {
+    height: 200px;
+    width: 200px;
+}
+
+
+.container__topo {
+    background-color: #E4F9F5;
+}
+
+.container__meio {
+    background-color: blue;
+    
+}
+
+.container__final {
+    background-color: cadetblue;
+}
